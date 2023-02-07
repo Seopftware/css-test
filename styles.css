@@ -1,0 +1,19 @@
+div{
+    display: flex;
+    width: 100px;
+    height: 100px;
+    color: white;
+    background-color: red;
+}
+
+.container {
+    width: 100vh;
+}
+
+a:hover{
+    color: green;
+}
+
+a:active{
+    color: black;
+}
